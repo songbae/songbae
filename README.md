@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HONGYEOB%20KIM&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SungBae%20Park&fontSize=60)
 
 
 <h3 align='center'>🛠 Tech Stack 🛠</h3>
