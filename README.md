@@ -5,6 +5,8 @@
 
 <p align='center' font-weight='bold'> Techs that I've used at least once.</p>
 <p align='center'>
+
+<img src="https://img.shields.io/badge/C++-3766AB?style=flat&logo=C++&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"> 
 <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=Pytorch&logoColor=white"> 
 <img src="https://img.shields.io/badge/Tensorflow-FF8C0A?style=flat&logo=Tensorflow&logoColor=white"> 
