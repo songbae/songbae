@@ -1,16 +1,31 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HONGYEOB%20KIM&fontSize=60)
 
-<!--
-**songbae/songbae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align='center'>🛠 Tech Stack 🛠</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center' font-weight='bold'> Techs that I've used at least once.</p>
+<p align='center'>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"> 
+<img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=Pytorch&logoColor=white"> 
+<img src="https://img.shields.io/badge/Tensorflow-FF8C0A?style=flat&logo=Tensorflow&logoColor=white"> 
+<img src="https://img.shields.io/badge/Numpy-1E8449?style=flat&logo=Numpy&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-FFD228?style=flat&logo=MySQL&logoColor=white">
+</p>
+<br></br>
+
+<p align='center'> 👨🏻‍💻 <strong>About Me</strong> 👨🏻‍💻 </p>
+<p align='center'> I'm Sungbae Park. 
+<br> Studying for 🌏  A.I. 
+</p>
+
+<p align='center'>
+Interested in DL specifically in Computer Vision.
+<br> Graudate InHa University.
+<br> Taking course for AI in Naver AI BoostCamp.
+</p>
+
+<p align='center'> 
+    <a href="mailto:mai.hong0924@gmail.com"><img src="https://img.shields.io/badge/Mail-FF5050?style=flat&logo=Gmail&logoColor=white&link=""/></a>&nbsp
+    <a href="https://maihon.oopy.io/"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Notion&logoColor=white"/></a>&nbsp
+</p>
+<br></br>
