@@ -21,8 +21,8 @@
 - I believe 🌏 A.I can change world .
 - Currently interested in **Computer Vision 👀**. 
 - Have strong interest in **GAN 🔍**
-- If you wanna know more about me.🏻 <a href="https://songbae.oopy.io/"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Notion&logoColor=white"/></a>
-- If you wanna contect to me. <a href="mailto:sbag57800@gmail.com"><img src="https://img.shields.io/badge/Mail-FF5050?style=flat&logo=Gmail&logoColor=white&link="/></a>
+- More about me! <a href="https://songbae.oopy.io/"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Notion&logoColor=white"/></a>
+- contect me! <a href="mailto:sbag57800@gmail.com"><img src="https://img.shields.io/badge/Mail-FF5050?style=flat&logo=Gmail&logoColor=white&link="/></a>
 
 
 |Competition Name|Type|Date|Rank|
