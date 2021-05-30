@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20SongBa🤗&fontSize=36&animation=fadeIn&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20SongBae🤗&fontSize=36&animation=fadeIn&fontAlignY=36)
 
 
 <h3 align='center'>🛠 Tech Stack 🛠</h3>
