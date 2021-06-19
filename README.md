@@ -28,13 +28,12 @@
 |Competition Name|Type|Date|Rank|
 |:---|:---|:---:|:---:|
 |[모션 키포인트 검출 AI 경진대회](https://dacon.io/competitions/official/235701)|PoseEstimation|21.02~21.04|12/156, Top 10%|
+|[BoostCamp P4 OCR 수식인식 text-to-latex ](https://songbae.oopy.io/e277b0e6-c7cd-4066-8892-7189b9e1992b)|Text Recognition|21.05.24~21.06.15|2/12|
+|[BoostCamp P3 재활용 품목 분류 ](https://songbae.oopy.io/2da200fe-28cf-4c3e-ae7b-f64b312a30dc)|Semantic Segmentation|21.04.26~21.05.21|1/18|
+|[BoostCamp P3 재활용 품목 분류 ](https://songbae.oopy.io/a6214749-5886-4f21-992d-4e11f5660028)|Object Detection|21.04.26~21.05.21|2/18|
 |[2021 Dev-Matching: 머신러닝 개발자](https://programmers.co.kr/competitions/1109/2021-machinelearning)|Classification|21.05.23|7/251 |
 |[Kaggle-E.T. Signal Search](https://www.kaggle.com/c/seti-breakthrough-listen)|Classification|21.05.10~ing|진행중|
 |[BoostCamp P1 마스크 착용 분류](https://www.notion.so/P1-Mask-Age-Gender-Classify-2c675fb030b94f7e99f61ff2e11971b3)|Classification|21.03.29~21.04.09|3/250|
-|[BoostCamp P2 온라인 상점 구매 예측](https://songbae.oopy.io/8ced5f47-6afe-4bc6-9228-fb84fad7e094)|Tabular Data|21.04.12 ~ 21.04.23|16/110|
-|[BoostCamp P3 재활용 품목 분류 ](https://songbae.oopy.io/2da200fe-28cf-4c3e-ae7b-f64b312a30dc)|Semantic Segmentation|21.04.26~21.05.21|1/18|
-|[BoostCamp P3 재활용 품목 분류 ](https://songbae.oopy.io/a6214749-5886-4f21-992d-4e11f5660028)|Object Detection|21.04.26~21.05.21|2/18|
-
 
 
 <br></br>
