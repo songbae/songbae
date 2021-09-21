@@ -27,6 +27,7 @@
 
 |Competition Name|Type|Date|Rank|
 |:---|:---|:---:|:---:|
+|[카메라 이미지 품질 향상 AI 경진대회](https://dacon.io/competitions/official/235746/leaderboard)|Image Resotoration|21.07~21.08|5/228, Top 4%|
 |[모션 키포인트 검출 AI 경진대회](https://dacon.io/competitions/official/235701)|PoseEstimation|21.02~21.04|12/156, Top 10%|
 |[BoostCamp P4 OCR 수식인식 text-to-latex ](https://songbae.oopy.io/e277b0e6-c7cd-4066-8892-7189b9e1992b)|Text Recognition|21.05.24~21.06.15|2/12|
 |[BoostCamp P3 재활용 품목 분류 ](https://songbae.oopy.io/2da200fe-28cf-4c3e-ae7b-f64b312a30dc)|Semantic Segmentation|21.04.26~21.05.21|1/18|
